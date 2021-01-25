@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/express_thoughts.iml" filepath="$PROJECT_DIR$/.idea/express_thoughts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quantitative_strategies_frame.iml" filepath="$PROJECT_DIR$/.idea/quantitative_strategies_frame.iml" />
     </modules>
   </component>
 </project>
